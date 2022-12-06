@@ -1,6 +1,6 @@
 # Copy-Code
 
-This is a code repository for the Browser extension which allows us to copy any code snippet from stackoverflow in a single click.
+This is a code repository for the Browser extension which allows us to copy any code snippet from stackoverflow in a single click. If you want to learn how to write this , I have everything covered for you in this article : [https://www.freecodecamp.org/news/write-your-own-browser-extensions/](https://www.freecodecamp.org/news/write-your-own-browser-extensions/)
 
 # Compatibility
 
